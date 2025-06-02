@@ -9,7 +9,6 @@ I'm a **mobile and web developer** specializing in **Java**, **Kotlin**, and mod
 ![Java](https://img.shields.io/badge/Java-bd9117?logo=openjdk&logoColor=FFFFFF&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge)  
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=Jetpack+Compose&logoColor=FFFFFF&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=FFFFFF&style=for-the-badge)
 ![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=FFFFFF&style=for-the-badge)  
 ![Material You](https://img.shields.io/badge/Material%20You-6200EE?logo=material-design&logoColor=FFFFFF&style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=FFFFFF&style=for-the-badge)
@@ -21,7 +20,6 @@ I'm a **mobile and web developer** specializing in **Java**, **Kotlin**, and mod
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFFFFF&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=FFFFFF&style=for-the-badge)  
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=FFFFFF&style=for-the-badge)
 
 ### Web Services & Backend  
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=Firebase&logoColor=ffffff&style=for-the-badge)
@@ -29,8 +27,7 @@ I'm a **mobile and web developer** specializing in **Java**, **Kotlin**, and mod
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=FFFFFF&style=for-the-badge)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=FFFFFF&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=FFFFFF&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=ffffff&style=for-the-badge)  
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=FFFFFF&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=ffffff&style=for-the-badge) 
 
 ### Secondary Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=FFFFFF&style=for-the-badge)
@@ -43,5 +40,5 @@ I'm a **mobile and web developer** specializing in **Java**, **Kotlin**, and mod
 I strive to stay updated with the latest technological trends, optimize my workflows, and collaborate on projects that make a positive impact. If you have an interesting project or want to collaborate, feel free to reach out!
 
 ## 📫 Connect with Me
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=ffffff&style=for-the-badge) [iKiwo](https://github.com/urdaknows)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=ffffff&style=for-the-badge) [urdaknows](https://github.com/urdaknows)  
 ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=ffffff&style=for-the-badge) [urdanetapersonal@hotmail.com](mailto:urdanetapersonal@gmail.com)
