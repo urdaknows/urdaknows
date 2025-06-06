@@ -7,9 +7,9 @@ I'm a **mobile and web developer** specializing in **Java**, **Kotlin**, and mod
 ### Mobile Development  
 ![Kotlin](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-bd9117?logo=openjdk&logoColor=FFFFFF&style=for-the-badge)
-![Android](https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge)  
+![Android](https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=Jetpack+Compose&logoColor=FFFFFF&style=for-the-badge)
-![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=FFFFFF&style=for-the-badge)  
+![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=FFFFFF&style=for-the-badge)
 ![Material You](https://img.shields.io/badge/Material%20You-6200EE?logo=material-design&logoColor=FFFFFF&style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=FFFFFF&style=for-the-badge)
 
