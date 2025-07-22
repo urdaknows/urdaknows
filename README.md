@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jose Andrés
 
-I'm a **mobile and web developer** specializing in **Java**, **Kotlin**, and modern web technologies. I'm passionate about creating innovative, functional, and user-friendly applications and solutions. My goal is to continuously grow as a professional, adopt new technologies, and deliver high-quality projects.
+I'm a **web developer** specializing in **Java**, **Kotlin**, and modern web technologies. I'm passionate about creating innovative, functional, and user-friendly applications and solutions. My goal is to continuously grow as a professional, adopt new technologies, and deliver high-quality projects.
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +24,6 @@ I'm a **mobile and web developer** specializing in **Java**, **Kotlin**, and mod
 ![JitPack](https://img.shields.io/badge/JitPack-354a5f?logo=jitpack&logoColor=ffffff&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=FFFFFF&style=for-the-badge)  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=FFFFFF&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=ffffff&style=for-the-badge) 
 
 ### Secondary Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=FFFFFF&style=for-the-badge)
