@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jose Andrés
 
-I'm a **web developer** specializing in **Java**, **Kotlin**, and modern web technologies. I'm passionate about creating innovative, functional, and user-friendly applications and solutions. My goal is to continuously grow as a professional, adopt new technologies, and deliver high-quality projects.
+I'm a **web developer** specializing in several languages, and modern web technologies. I'm passionate about creating innovative, functional, and user-friendly applications and solutions. My goal is to continuously grow as a professional, adopt new technologies, and deliver high-quality projects.
 
 ## 🛠️ Tech Stack
 
