@@ -1,8 +1,12 @@
+<div align="center">
+
 <h1 >
   👋 Hello, I'm Jose Andrés
 </h1>
 
 I'm a **Developer** specializing in several languages, and modern web technologies. I'm passionate about creating innovative, functional, and user-friendly applications and solutions. My goal is to continuously grow as a professional, adopt new technologies, and deliver high-quality projects.
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=urdaknows&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
 ## 🛠️ Tech Stack
 
@@ -38,3 +42,4 @@ I strive to stay updated with the latest technological trends, optimize my workf
 
 ## 📫 Connect with Me
 ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=ffffff&style=for-the-badge) [urdanetapersonal@gmail.com](mailto:urdanetapersonal@gmail.com)
+</div>
