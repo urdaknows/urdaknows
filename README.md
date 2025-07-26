@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jose Andrés
+👋 Hello, I'm Jose Andrés
 
 I'm a **Developer** specializing in several languages, and modern web technologies. I'm passionate about creating innovative, functional, and user-friendly applications and solutions. My goal is to continuously grow as a professional, adopt new technologies, and deliver high-quality projects.
 
@@ -7,7 +7,7 @@ I'm a **Developer** specializing in several languages, and modern web technologi
 ### Mobile Development  
 ![Kotlin](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-bd9117?logo=openjdk&logoColor=FFFFFF&style=for-the-badge)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=Jetpack+Compose&logoColor=FFFFFF&style=for-the-badge)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=Jetpack+Compose&logoColor=FFFFFF&style=for-the-badge)  
 ![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=FFFFFF&style=for-the-badge)
 ![Material You](https://img.shields.io/badge/Material%20You-6200EE?logo=material-design&logoColor=FFFFFF&style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=FFFFFF&style=for-the-badge)
