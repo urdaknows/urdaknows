@@ -29,6 +29,8 @@ I'm a **Developer** specializing in several languages, and modern web technologi
 ![JitPack](https://img.shields.io/badge/JitPack-354a5f?logo=jitpack&logoColor=ffffff&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=FFFFFF&style=for-the-badge) 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=FFFFFF&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Secondary Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=FFFFFF&style=for-the-badge)
