@@ -1,15 +1,13 @@
 <div align="center">
 
-### 👋 Hello, I'm José Andrés
----
+### <h1>👋 Hello, I'm José Andrés</h1>
 
 I'm a **Developer** specializing in several languages, and modern web technologies. I'm passionate about creating innovative, functional, and user-friendly applications and solutions. My goal is to continuously grow as a professional, adopt new technologies, and deliver high-quality projects.
 
 <a style="display:flex;" align="center">[![GitHub Readme](https://github-readme-stats.vercel.app/api?username=urdaknows&theme=dark&show_icon=true&hide_border=true&amp;rank_icon=github&show_icons=true&bg_color=222428&border_radius=10)](https://github-readme-stats.vercel.app)
  </a>
 
-### 🛠️ Tech Stack
----
+## 🛠️ Tech Stack
 
 ### Mobile Development  
 ![Kotlin](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
@@ -37,8 +35,7 @@ I'm a **Developer** specializing in several languages, and modern web technologi
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=FFFFFF&style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=FFFFFF&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-FFFFFF?logo=Markdown&logoColor=000000&style=for-the-badge)
-
----
+##
 
 ### 📈 My Focus
 I strive to stay updated with the latest technological trends, optimize my workflows, and collaborate on projects that make a positive impact. If you have an interesting project or want to collaborate, feel free to reach out!
