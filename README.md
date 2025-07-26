@@ -1,4 +1,4 @@
-<h1 align='center'>
+<h1 >
   👋 Hello, I'm Jose Andrés
 </h1>
 
@@ -9,7 +9,7 @@ I'm a **Developer** specializing in several languages, and modern web technologi
 ### Mobile Development  
 ![Kotlin](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-bd9117?logo=openjdk&logoColor=FFFFFF&style=for-the-badge)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=Jetpack+Compose&logoColor=FFFFFF&style=for-the-badge)  
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=Jetpack+Compose&logoColor=FFFFFF&style=for-the-badge) 
 ![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=FFFFFF&style=for-the-badge)
 ![Material You](https://img.shields.io/badge/Material%20You-6200EE?logo=material-design&logoColor=FFFFFF&style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=FFFFFF&style=for-the-badge)
@@ -17,14 +17,14 @@ I'm a **Developer** specializing in several languages, and modern web technologi
 ### Web Development  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=FFFFFF&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=FFFFFF&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFFFFF&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 
 ### Web Services & Backend  
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=Firebase&logoColor=ffffff&style=for-the-badge)
 ![JitPack](https://img.shields.io/badge/JitPack-354a5f?logo=jitpack&logoColor=ffffff&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=FFFFFF&style=for-the-badge)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=FFFFFF&style=for-the-badge) 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=FFFFFF&style=for-the-badge)
 
 ### Secondary Skills  
