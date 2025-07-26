@@ -1,4 +1,6 @@
-👋 Hello, I'm Jose Andrés
+<h1 align='center'>
+  👋 Hello, I'm Jose Andrés
+</h1>
 
 I'm a **Developer** specializing in several languages, and modern web technologies. I'm passionate about creating innovative, functional, and user-friendly applications and solutions. My goal is to continuously grow as a professional, adopt new technologies, and deliver high-quality projects.
 
