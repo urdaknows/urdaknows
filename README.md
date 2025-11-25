@@ -4,9 +4,6 @@
 
 I'm a **Developer** specializing in several languages, and modern web technologies. I'm passionate about creating innovative, functional, and user-friendly applications and solutions. My goal is to continuously grow as a professional, adopt new technologies, and deliver high-quality projects.
 
-<a style="display:flex;" align="center">[![GitHub Readme](https://github-readme-stats.vercel.app/api?username=urdaknows&theme=dark&show_icon=true&hide_border=true&amp;rank_icon=github&show_icons=true&bg_color=222428&border_radius=10)](https://github-readme-stats.vercel.app)
- </a>
-
 ## 🛠️ Tech Stack
 
 ### Mobile Development  
