@@ -32,9 +32,9 @@ I'm a **Developer** specializing in several languages, and modern web technologi
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=FFFFFF&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=FFFFFF&style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=FFFFFF&style=for-the-badge)
-![Markdown](https://img.shields.io/badge/Markdown-FFFFFF?logo=Markdown&logoColor=000000&style=for-the-badge)
 <img alt="Spigot API" src="https://img.shields.io/badge/Spigot%20-F9A825?style=for-the-badge&logo=spigotmc&logoColor=white" />
 <img alt="Paper API" src="https://img.shields.io/badge/Paper%20-1E88E5?style=for-the-badge&logo=paper&logoColor=white" />
+<img alt="Roblox Studio" src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
 ##
 
 ### 📈 My Focus
