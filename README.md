@@ -1,17 +1,16 @@
 <div align="center">
 
-### <h1>👋 Hello, I'm José Andrés</h1>
+### <h1>Hello, I'm José Andrés</h1>
 
 I'm a **Developer** specializing in several languages, and modern web technologies. I'm passionate about creating innovative, functional, and user-friendly applications and solutions. My goal is to continuously grow as a professional, adopt new technologies, and deliver high-quality projects.
 
 ## 🛠️ Tech Stack
 
-### Mobile Development  
+### General Development
 ![Kotlin](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-bd9117?logo=openjdk&logoColor=FFFFFF&style=for-the-badge)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=Jetpack+Compose&logoColor=FFFFFF&style=for-the-badge) 
 ![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=FFFFFF&style=for-the-badge)
-![Material You](https://img.shields.io/badge/Material%20You-6200EE?logo=material-design&logoColor=FFFFFF&style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=FFFFFF&style=for-the-badge)
 
 ### Web Development  
@@ -34,6 +33,8 @@ I'm a **Developer** specializing in several languages, and modern web technologi
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=FFFFFF&style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=FFFFFF&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-FFFFFF?logo=Markdown&logoColor=000000&style=for-the-badge)
+<img alt="Spigot API" src="https://img.shields.io/badge/Spigot%20-F9A825?style=for-the-badge&logo=spigotmc&logoColor=white" />
+<img alt="Paper API" src="https://img.shields.io/badge/Paper%20-1E88E5?style=for-the-badge&logo=paper&logoColor=white" />
 ##
 
 ### 📈 My Focus
